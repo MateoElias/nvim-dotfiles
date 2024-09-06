@@ -29,4 +29,3 @@ opt.cursorline = true
 
 opt.hidden = true
 vim.g.mapleader = ' '
-
